@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello, my name is Suvi.👋
+
+## Who am I?
+I am an eighteen-year-old programmer from America.
+
+I am currently in school, intending to become a Software Engineer.
+
+## Languages and Tools: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 <!--
 **Suvikian/Suvikian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
